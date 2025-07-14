@@ -1,0 +1,12 @@
+# ninja log v5
+138	1147	7741694493653588	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	96174838965f2bb2
+1163	2119	7741694501657162	C:/Users/sitik/Downloads/GuardianofNature-main/GuardianofNature-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1x737437/obj/arm64-v8a/libswappywrapper.so	3678ed39b3e0ce6b
+75	2194	7741694503824324	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a24dc12acb085e1e
+1	2198	7741694504186881	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4945527fad5bcfae
+56	2247	7741694504701361	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f3075c10db8e73cc
+110	2366	7741694506018095	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	33878e1481fd452d
+124	2375	7741694506031237	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	32fc698238191d66
+26	2447	7741694506878341	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ad8972df10305827
+38	2608	7741694508436538	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b70080e2873c6ee4
+14	2774	7741694510130413	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ba5500aeeb1fb0a5
+2774	2915	7741694511644656	C:/Users/sitik/Downloads/GuardianofNature-main/GuardianofNature-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1x737437/obj/arm64-v8a/libgame.so	1f0223949df33701
